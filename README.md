@@ -18,4 +18,4 @@ I build AI systems, and I care most about making them *correct*: I measure model
 
 Python · Rust · TypeScript · AWS (Bedrock, Lambda, RDS) · Terraform · RAG and LLM evaluation · PostgreSQL / pgvector
 
-Most of my other projects live in private repositories. I'm happy to walk through any of them, so reach out through the links above.
+Most of my projects live in private repositories. I'm happy to walk through any of them, so reach out through the links above.
